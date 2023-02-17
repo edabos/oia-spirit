@@ -6,12 +6,19 @@
 	font-style: normal;
 }
 
+@font-face {
+	font-family: 'Tahoma Regular font';
+	src: url('fonts/Tahoma Regular font.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
 
 
 
 
 html{
-	font-family:tahoma;
+	font-family:Tahoma Regular font;
 	color:hsl(280, 0%, 50%);
 }
 
