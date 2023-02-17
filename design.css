@@ -146,12 +146,12 @@ h4 {
 	color:hsl(212, 25%, 40%);
 }
 #menuleiste li a:hover {
-	background-color:hsl(204, 50%, 75%);
+	background-color:hsl(204, 50%, 70%);
 	color: #ffffff;
 }
 	
 #menuleiste li a:active {
-	background-color:hsl(204, 50%, 65%);
+	background-color:hsl(204, 50%, 70%);
 }
 	
 #menuleiste a:hover,
@@ -161,7 +161,7 @@ h4 {
 #aktivitaten #navi04 a,
 #galerie #navi05 a,
 #kontakt #navi06 a {
-	background-color:hsl(204, 50%, 75%);
+	background-color:hsl(204, 50%, 70%);
 	color: #ffffff;
 }
 
@@ -353,7 +353,7 @@ h4 {
 #footer p {
 	align-content: center;
 	height: auto;
-	font-size:10px;
+	font-size:12px;
 	padding:80px 60px 0 60px;
 	display: flex;
 }
